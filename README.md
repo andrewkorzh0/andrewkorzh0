@@ -1,4 +1,5 @@
 ## Hi, I'm Andrew 🔭
+
 <pre>
      ,_     _
      |\\_,-~/                     
@@ -24,4 +25,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=andrewkorzh0&show_icons=true&locale=en&layout=donut&theme=tokyonight)
 -->
