@@ -1,17 +1,4 @@
 ## Hi, I'm Andrew 🔭
-
-<pre>
-     ,_     _
-     |\\_,-~/                     
-     / _  _ |    ,--.
-    (  T  T )   / ,-'
-MEOW \  _T_/-._( (
-     /         `. \
-    |         _  \ |
-     \ \ ,  /      |
-      || |-_\__   /
-     ((_/`(____,-'
-</pre>
 <!--
 **andrewkorzh0/andrewkorzh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
